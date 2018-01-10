@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+# About
 
 vectorVcinco® es una empresa Méxicana con base en la ciudad de Puebla. Hacemos diseño
 con énfasis en tecnología.
