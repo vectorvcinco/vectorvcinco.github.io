@@ -1,24 +1,24 @@
 ---
 productiondate: Privamera 2017
 images:
-  - /assets/img/pizarrones/img_20170227_174811421.jpg
-  - /assets/img/pizarrones/img_20170306_143529182.jpg
-  - /assets/img/pizarrones/img_20170306_143534650.jpg
-  - /assets/img/pizarrones/img_20170306_143538303.jpg
-  - /assets/img/pizarrones/img_20170306_143546184.jpg
-  - /assets/img/pizarrones/img_20170309_030014050.jpg
-  - /assets/img/pizarrones/img_20170309_071504137.jpg
-  - /assets/img/pizarrones/img_20170309_071508533.jpg
-  - /assets/img/pizarrones/img_20170309_071519486.jpg
-  - /assets/img/pizarrones/img_20170309_071527394.jpg
-  - /assets/img/pizarrones/img_20170309_113937454.jpg
-  - /assets/img/pizarrones/img_20170309_114911113.jpg
-  - /assets/img/pizarrones/img_20170309_133818312.jpg
-  - /assets/img/pizarrones/img_20170309_134901474.jpg
-  - /assets/img/pizarrones/img_20170309_135014897.jpg
-  - /assets/img/pizarrones/img_20170309_135028412.jpg
-  - /assets/img/pizarrones/img_20170309_135646890.jpg
-  - /assets/img/pizarrones/img_20170309_135653400.jpg
+  - /assets/img/pizarrones/IMG_20170227_174811421.jpg
+  - /assets/img/pizarrones/IMG_20170306_143529182.jpg
+  - /assets/img/pizarrones/IMG_20170306_143534650.jpg
+  - /assets/img/pizarrones/IMG_20170306_143538303.jpg
+  - /assets/img/pizarrones/IMG_20170306_143546184.jpg
+  - /assets/img/pizarrones/IMG_20170309_030014050.jpg
+  - /assets/img/pizarrones/IMG_20170309_071504137.jpg
+  - /assets/img/pizarrones/IMG_20170309_071508533.jpg
+  - /assets/img/pizarrones/IMG_20170309_071519486.jpg
+  - /assets/img/pizarrones/IMG_20170309_071527394.jpg
+  - /assets/img/pizarrones/IMG_20170309_113937454.jpg
+  - /assets/img/pizarrones/IMG_20170309_114911113.jpg
+  - /assets/img/pizarrones/IMG_20170309_133818312.jpg
+  - /assets/img/pizarrones/IMG_20170309_134901474.jpg
+  - /assets/img/pizarrones/IMG_20170309_135014897.jpg
+  - /assets/img/pizarrones/IMG_20170309_135028412.jpg
+  - /assets/img/pizarrones/IMG_20170309_135646890.jpg
+  - /assets/img/pizarrones/IMG_20170309_135653400.jpg
   - /assets/img/pizarrones/pizarron_IMG_7741.JPG
   - /assets/img/pizarrones/pizarron_IMG_7741.JPGIMG_7736.JPG
   - /assets/img/pizarrones/pizarron_IMG_7741.JPGIMG_7737.JPG
