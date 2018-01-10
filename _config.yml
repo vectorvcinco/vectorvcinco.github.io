@@ -1,0 +1,28 @@
+logo: assets/brand/logo.svg
+
+social:
+  instagram: itzegomind
+  email: itzegomind@gmail.com
+  tumblr: egomind
+  facebook: itzegomind
+  pinterest: ischiaffini
+
+links:
+  store: https://store.vectorvcinco.design
+  huertito: http://huertito.com
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+remote_theme: vectorvcinco/vv5-theme
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      categories: "all"

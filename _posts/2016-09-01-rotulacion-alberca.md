@@ -1,0 +1,43 @@
+---
+title: Rotulación Alberca
+productiondate: Otoño 2016
+images:
+  - /assets/img/alberca/img_20160717_104915086.jpg
+  - /assets/img/alberca/img_20160717_104917998.jpg
+  - /assets/img/alberca/img_20160717_114739000.jpg
+  - /assets/img/alberca/img_20160717_114747045.jpg
+  - /assets/img/alberca/img_20160717_114818716.jpg
+  - /assets/img/alberca/img_20160717_114820995.jpg
+  - /assets/img/alberca/img_20160717_114821242.jpg
+  - /assets/img/alberca/img_20160717_115539074.jpg
+  - /assets/img/alberca/img_20160717_115539074.jpg
+  - /assets/img/alberca/img_20160717_115546171.jpg
+  - /assets/img/alberca/img_20161126_150235943.jpg
+  - /assets/img/alberca/img_20161126_150237707.jpg
+  - /assets/img/alberca/img_20161126_150244533.jpg
+  - /assets/img/alberca/img_20161126_150245665.jpg
+  - /assets/img/alberca/img_20161126_150416558.jpg
+  - /assets/img/alberca/img_20161126_150417766.jpg
+  - /assets/img/alberca/img_20161126_150435639.jpg
+  - /assets/img/alberca/img_20161126_150452510.jpg
+  - /assets/img/alberca/img_20161126_150455315.jpg
+  - /assets/img/alberca/img_20161126_150456974.jpg
+  - /assets/img/alberca/img_20161126_150504328.jpg
+  - /assets/img/alberca/img_20161126_150514662.jpg
+  - /assets/img/alberca/img_20161126_150515537.jpg
+  - /assets/img/alberca/img_20161126_150526593.jpg
+  - /assets/img/alberca/portfolio_IMG_20160717_115542508.jpg
+  - /assets/img/alberca/portfolio_IMG_20161126_150238825.jpg
+  - /assets/img/alberca/portfolio_IMG_20161126_150436951.jpg
+  - /assets/img/alberca/portfolio_IMG_20161126_150445268.jpg
+  - /assets/img/alberca/portfolio_IMG_20161126_150447680.jpg
+  - /assets/img/alberca/portfolio_IMG_20161126_150525133.jpg
+  - /assets/img/alberca/portfolio_IMG_6937.JPG
+  - /assets/img/alberca/portfolio_IMG_6948.JPG
+  - /assets/img/alberca/portfolio_IMG_6954.JPG
+  - /assets/img/alberca/portfolio_IMG_6956.JPG
+  - /assets/img/alberca/portfolio_IMG_6968.JPG
+  - /assets/img/alberca/portfolio_IMG_6973.JPG
+  - /assets/img/alberca/portfolio_IMG_6987.JPG
+---
+Siluetas de nadadores y olas para alberca
