@@ -16,7 +16,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
-remote_theme: vectorvcinco/vv5-theme
+remote_theme: vectorvcinco/vectorvcinco-theme
 
 defaults:
   -
